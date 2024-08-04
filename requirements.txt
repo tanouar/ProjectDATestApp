@@ -3,4 +3,4 @@ pandas==2.2.2
 nbformat==5.9.2
 chardet==4.0.0
 nbconvert==7.10.0
-ipykerne==6.28.0
+ipykernel==6.28.0
